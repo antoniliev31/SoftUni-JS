@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# IDE/Editor конфигурации
+.vscode/
+.idea/
+*.swp
+
+# Операционна система
+.DS_Store        # macOS
+Thumbs.db       # Windows
+
+# Лични настройки
+.env             
+
+# Локални компилирани файлове
+dist/
+build/
